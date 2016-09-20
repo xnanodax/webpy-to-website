@@ -4,4 +4,4 @@ This is a sample code to help people learn how to upload their web.py code onto 
 
 Before executing this code, you must:
   1) Replace "yourUSERNAME" with your own pythonanywhere username.
-  2) Replace "yourWEBSITE" with your own pythonanywhere website folder.
+  <br>2) Replace "yourWEBSITE" with your own pythonanywhere website folder.
