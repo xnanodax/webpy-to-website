@@ -1,3 +1,5 @@
+#This file is uploaded under the "Web" tab, under the WSGI configuration file:/var/www/yourUSERNAME_pythonanywhere_com_wsgi.py
+
 import sys
 
 path = '/home/yourUSERNAME/yourWEBSITE/bin/'
