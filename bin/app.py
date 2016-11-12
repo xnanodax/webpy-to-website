@@ -1,3 +1,6 @@
+#This file is uploaded under the "File" tab, under the user created folder named "bin"
+#file location: /home/yourUSERNAME/yourWEBSITE/bin/app.py
+
 import web
 
 urls = (
